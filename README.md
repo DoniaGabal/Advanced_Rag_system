@@ -14,7 +14,7 @@ The system integrates multiple advanced components to improve retrieval accuracy
 * 📚 **Vector Database** for efficient similarity search
 * ⚡ **Hybrid Search** (BM25 + Vector Search)
 * 🎯 **Score-based Filtering**
-* 🧠 **Reranking باستخدام Cross-Encoder** لتحسين النتائج النهائية
+* 🧠 **Reranking using Cross-Encoder** 
 
 ---
 
